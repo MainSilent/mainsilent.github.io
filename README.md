@@ -1,3 +1,3 @@
 # home
 
-https://mainsilent.github.io/home
+https://mainsilent.github.io
